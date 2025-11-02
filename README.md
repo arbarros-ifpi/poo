@@ -30,14 +30,19 @@ O objetivo é compreender e aplicar conceitos fundamentais como **abstração**,
 ---
 
 🧩 **Conteúdos Principais**
-- Introdução à POO  
-- Classes e Objetos  
-- Atributos e Métodos  
-- Construtores  
-- Encapsulamento  
-- Herança  
+- Introdução ao Paradigma Orientado a Objetos   
+- Abstração e conceitos fundamentais (classes, objetos, atributos, métodos e construtores)  
+- Prática com Python  
+- Lista de Exercícios  
+- Encapsulamento (proteção e interface de classes)
+- Pŕatica com Python
+- Lista de Exercícios
+- Herança (Composição e outros relacionamentos entre classes e objetos)
+- Prática com Python
+- Lista de Exercícios  
 - Polimorfismo  
-- Tratamento de Exceções  
+- Tratamento de Exceções
+- Coleções e Banco de Dados  
 - Aplicações práticas em Python  
 
 ---
