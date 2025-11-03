@@ -33,10 +33,10 @@ O objetivo é compreender e aplicar conceitos fundamentais como **abstração**,
 - Lista de Exercícios de Revisão <a href ="https://exercicios.dunossauro.com/">Exercicios de Revisão (Linguagem Python)</a>
 - Introdução ao Paradigma Orientado a Objetos <a href="https://drive.google.com/file/d/1Ye32TyQRvrPJheUnx731wldP7yrwBHTJ/view?usp=drive_link">Aula 01</a>  
 - Abstração e conceitos fundamentais (classes, objetos, atributos, métodos e construtores)  <a href="https://drive.google.com/file/d/11wtJHSwXUJD9MuF0EFHEdqTaMdA3NDfU/view?usp=drive_link">Aula 02</a>
-- Prática com Python  
+- Prática com Python (Versão 0.2 Jogo): <a href='https://github.com/arbarros-ifpi/poo/tree/master/Jogos/Mario'> Jogo Mário </a>  
 - Lista de Exercícios  <a href="https://drive.google.com/file/d/1X5gS9LG4eN7N9jSNWxgopCgc4cBDQlpu/view?usp=drive_link">Lista de Exercícios 01</a>
 - Encapsulamento (proteção e interface de classes) <a href="https://drive.google.com/file/d/1Px8D7_o23fijbT7Ti54E64WrI0dDRv3Z/view?usp=drive_link">Aula 03</a>
-- Pŕatica com Python
+- Pŕatica com Python (Versão 0.1 SCB): <a href=''> SCB </a>
 - Lista de Exercícios <a href="https://drive.google.com/file/d/1WbA560-Vy9EM2bunny2E8WWeuFMnWRI1/view?usp=drive_link">Lista de Exercícios 02 </a>
 - Herança (Composição e outros relacionamentos entre classes e objetos)
 - Prática com Python
