@@ -36,6 +36,7 @@ O objetivo é compreender e aplicar conceitos fundamentais como **abstração**,
 - Prática com Python (Versão 0.2 Jogo): <a href='https://github.com/arbarros-ifpi/poo/tree/master/Jogos/Mario'> Jogo Mário </a>  
 - Lista de Exercícios  <a href="https://drive.google.com/file/d/1X5gS9LG4eN7N9jSNWxgopCgc4cBDQlpu/view?usp=drive_link">Lista de Exercícios 01</a>
 - Encapsulamento (proteção e interface de classes) <a href = "https://drive.google.com/file/d/13jgqnxJKCs1NGhg5dwObOySd8Wz_iX8G/view?usp=sharing">Aula 03</a>
+- Atividade Avaliativa de Recueração: <a href ='https://drive.google.com/file/d/1i37meTMUJ8Va1Tl-LqN0ReD2mL2WBXFG/view?usp=sharing'> Trabalho </a>
 - Pŕatica com Python (Versão 0.1 SCB): <a href=''> SCB </a>
 - Lista de Exercícios <a href="https://drive.google.com/file/d/1WbA560-Vy9EM2bunny2E8WWeuFMnWRI1/view?usp=drive_link">Lista de Exercícios 02 </a>
 - Herança (Composição e outros relacionamentos entre classes e objetos)
