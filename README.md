@@ -39,7 +39,9 @@ O objetivo é compreender e aplicar conceitos fundamentais como **abstração**,
 - Atividade Avaliativa de Recuperação: <a href ='https://drive.google.com/file/d/1i37meTMUJ8Va1Tl-LqN0ReD2mL2WBXFG/view?usp=sharing'> Trabalho </a>
 - Pŕatica com Python (Versão 0.1 SCB): <a href=''> SCB </a>
 - Lista de Exercícios <a href="https://drive.google.com/file/d/1WbA560-Vy9EM2bunny2E8WWeuFMnWRI1/view?usp=drive_link">Lista de Exercícios 02 </a>
-- Herança (Composição e outros relacionamentos entre classes e objetos)
+- Herança (Composição e outros relacionamentos entre classes e objetos): <a href="https://drive.google.com/file/d/17Gm8bsXWw4iTIgYvjr4L7T0SPEBUNG2G/view?usp=sharing">Aula 04</a>
+Exercício de revisão 2ª avaliação: <a href="https://docs.google.com/document/d/1EpeI0mnAske0sgCmBg0tkYs5UfDH9nbGlnJG8Mfr03s/edit?usp=sharing">Exercício</a>
+
 - Prática com Python - Tutorial passo a passo Sistema de Controle Bancário - https://docs.google.com/document/d/1ekTF4PbJI5esdVMqERr6WchQy-SUB_pHtsbOLEj571k/edit?usp=sharing 
 - Lista de Exercícios  
 - Polimorfismo  
