@@ -41,10 +41,10 @@ O objetivo é compreender e aplicar conceitos fundamentais como **abstração**,
 - Lista de Exercícios <a href="https://drive.google.com/file/d/1WbA560-Vy9EM2bunny2E8WWeuFMnWRI1/view?usp=drive_link">Lista de Exercícios 02 </a>
 - Herança (Composição e outros relacionamentos entre classes e objetos): <a href="https://drive.google.com/file/d/17Gm8bsXWw4iTIgYvjr4L7T0SPEBUNG2G/view?usp=sharing">Aula 04</a>
 - Exercício de revisão 2ª avaliação: <a href="https://docs.google.com/document/d/1EpeI0mnAske0sgCmBg0tkYs5UfDH9nbGlnJG8Mfr03s/edit?usp=sharing">Exercício</a>
-- II Atividade Avaliativa do 2 bimestre> <a href="https://drive.google.com/file/d/1S-r2cXKcqR1lixVCVKQIojrUAlsgsr3H/view?usp=sharing">Link da Atividade</a>
 - Prática com Python - Tutorial passo a passo Sistema de Controle Bancário - https://docs.google.com/document/d/1ekTF4PbJI5esdVMqERr6WchQy-SUB_pHtsbOLEj571k/edit?usp=sharing 
-- Lista de Exercícios  
 - Polimorfismo  
+- II Atividade Avaliativa do 2 bimestre <a href="https://drive.google.com/file/d/1S-r2cXKcqR1lixVCVKQIojrUAlsgsr3H/view?usp=sharing">Link da Atividade</a>
+
 - Tratamento de Exceções
 - Coleções e Banco de Dados  
 - Aplicações práticas em Python  
